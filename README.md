@@ -9,3 +9,5 @@ References to various projects that demonstrate what you can do with AWS.
 [Create S3 Bucket](https://github.com/TallDave67/aws_create_s3_bucket)
 
 [Create S3 Bucket with Lifecycle rules](https://github.com/TallDave67/aws_create_s3_bucket_lifecycle)
+
+[Create S3 Bucket with Object Locks](https://github.com/TallDave67/aws_object_lock)
